@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listaPerfume>
+    <perfume>
+        <marca>Dior</marca>
+        <creador>Cristian Dior</creador>
+        <codigoPerfume>247896</codigoPerfume>
+        <unidades>100</unidades>
+        <precio>50.99</precio>
+        <fechaCreacion>10/05/1995</fechaCreacion>
+    </perfume>
+    <perfume>
+        <marca>1 Million</marca>
+        <creador>Christophe Raynaud</creador>
+        <codigoPerfume>296874</codigoPerfume>
+        <unidades>150</unidades>
+        <precio>45.99</precio>
+        <fechaCreacion>12/10/1992</fechaCreacion>
+    </perfume>
+    <perfume>
+        <marca>Armani</marca>
+        <creador>Giorgio Armani</creador>
+        <codigoPerfume>965478</codigoPerfume>
+        <unidades>100</unidades>
+        <precio>50.99</precio>
+        <fechaCreacion>24/09/1995</fechaCreacion>
+    </perfume>
+    <perfume>
+        <marca>Loewe</marca>
+        <creador>Jonathan Anderson</creador>
+        <codigoPerfume>536984</codigoPerfume>
+        <unidades>100</unidades>
+        <precio>55.99</precio>
+        <fechaCreacion>25/02/2000</fechaCreacion>
+    </perfume>
+    <perfume>
+        <marca>Gucci</marca>
+        <creador>Cristian Gucci</creador>
+        <codigoPerfume>356987</codigoPerfume>
+        <unidades>220</unidades>
+        <precio>60.99</precio>
+        <fechaCreacion>10/05/1999</fechaCreacion>
+    </perfume>
+</listaPerfume>
